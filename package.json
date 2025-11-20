@@ -1,0 +1,26 @@
+{
+  "name": "senati-backend-org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDevSdl/SENATI-BACKEND-ORG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlexDevSdl/SENATI-BACKEND-ORG/issues"
+  },
+  "homepage": "https://github.com/AlexDevSdl/SENATI-BACKEND-ORG#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3",
+    "sequelize": "^6.37.7"
+  }
+}
